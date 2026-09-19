@@ -1,4 +1,5 @@
-# exampleportfolio
+# KB
+<img width="144" height="144" alt="Headshot_Cicle_KB_Photo" src="https://github.com/user-attachments/assets/6d5eda1d-fbfb-4a0a-abe6-6935740654fb" />
 
 
 # Education
