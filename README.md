@@ -1,6 +1,6 @@
 # KB
 <img width="144" height="144" alt="Headshot_Cicle_KB_Photo" src="https://github.com/user-attachments/assets/6d5eda1d-fbfb-4a0a-abe6-6935740654fb" />
-<img width="1307" height="980" alt="IndianFlag" src="https://github.com/user-attachments/assets/f5a46e1f-9ce8-4677-8ffb-bd8843fcc63c" />
+<img width="500" height="230" alt="IndianFlag" src="https://github.com/user-attachments/assets/f5a46e1f-9ce8-4677-8ffb-bd8843fcc63c" />
 
 
 # AI in Healthcare Projects
